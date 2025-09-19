@@ -1,0 +1,1 @@
+0 = male singing1 = female singing2 = male and female singing3 = male speech4 = female speech5 = male and female speech6 = other
